@@ -1,4 +1,4 @@
-"Good morning. Based on the analysis requested, I have four main points to cover regarding our revenue performance.
+Good morning. Based on the analysis requested, I have four main points to cover regarding our revenue performance.
 
 First, looking at revenue by month for 2011, we see an overall increasing trend over the year. However, there are some notable peaks and valleys, with December being by far our highest revenue month at over $1.5 million invoiced, suggesting strong seasonal demand trends that warrant further analysis to forecast accurately.
 
@@ -8,9 +8,5 @@ Thirdly, The bar chart visualizes the top 10 customer accounts ranked by total r
 
 Finally, mapping our geographic revenue footprint globally, we see very strong performance in North America as expected. However, Europe as a whole also emerges as a crucial region, contributing a sizable portion of our overall revenue for the year, suggesting opportunities to further expand presence across that continent, excluding the UK market.
 
-
-
 In summary, 2011 saw growing sales momentum with some lumpiness month-to-month, our European markets are highly profitable despite lower volumes, our top accounts are critical revenue drivers, and we have a key opportunity to further penetrate the European market going forward.
 I'm happy to discuss strategy implications or drill further into any specific areas of interest. Please let me know if you need any clarification or have additional questions.
-
-
